@@ -30,11 +30,8 @@ puts epic_tragedy
   #code your solution here:
 epic_tragedy[:montague][:hero][:status] = "dead"
 
-puts epic_tragedy
-
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 
-puts epic_tragedy
 
   #Don't touch the following line! The method must return our newly modified epic tragedy hash
   epic_tragedy
